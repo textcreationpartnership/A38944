@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact relation of all the transactions and proceedings, between the King of Denmark, and the King of Sweden, and their ministers from the treaty at Rottshild, concluded February 26. 1657/1658.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38944</idno>
+            <idno type="STC">Wing E3675</idno>
+            <idno type="STC">ESTC R41146</idno>
+            <idno type="EEBO-CITATION">19639738</idno>
+            <idno type="OCLC">ocm 19639738</idno>
+            <idno type="VID">109263</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38944)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109263)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1685:69)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact relation of all the transactions and proceedings, between the King of Denmark, and the King of Sweden, and their ministers from the treaty at Rottshild, concluded February 26. 1657/1658.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Simon Miller ...,</publisher>
+                  <pubPlace>Londdn [sic] :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Frederick --  III, --  King of Denmark and Norway, 1609-1670.</term>
+               <term>Charles --  X Gustav, --  King of Sweden, 1622-1660.</term>
+               <term>Denmark --  Foreign relations --  Treaties.</term>
+               <term>Sweden --  Foreign relations --  Treaties.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109263:1" rendition="simple:additions"/>
+            <p>AN EXACT RELATION Of all the TRANSACTIONS <hi>AND</hi> PROCEEDINGS, BETWEEN The KING of <hi>DENMARK,</hi> AND The KING of <hi>SWEDEN,</hi> AND Their MINISTERS.</p>
+            <p>From the Treaty at <hi>Rottſhild,</hi> Con<g ref="char:EOLhyphen"/>cluded <hi>February</hi> 26. 1657/1658.</p>
+            <p>
+               <hi>LONDDN,</hi> Printed for <hi>Simon Miller,</hi> and are to be Sould at the Star in S<hi rend="sup">t</hi> 
+               <hi>Pauls</hi> Church-yard, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:109263:2"/>
+            <pb n="1" facs="tcp:109263:2"/>
+            <head>AN EXACT RELATION OF ALL THE TRANSACTIONS Betwixt the Commiſſioners of the King of <hi>Denmark,</hi> and Ambaſſadours of the King of <hi>Sweden,</hi> ſince the late Concluſion of Peace at <hi>Rottſhild;</hi> And other enſuing Actions.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is every where ſufficiently known, how in <hi>February</hi> laſt (by a more then ordinary froſt) not only the Rivers, but alſo the very Seas (wherein the ſtrength of the Daniſh Iſlands conſiſt) were covered with Ice, in ſuch a man<g ref="char:EOLhyphen"/>ner, that thereby the King of <hi>Sweden,</hi> had a fair opportunity to paſs with his Army and Attillery over them, firſt into the Iſle of <hi>Funen,</hi> and afterwards into that of <hi>Zealand:</hi> And alſo that thereupon, by the Authority and mediation of the moſt Chriſtian King of <hi>France,</hi> and his Highneſs the Lord Protector of <hi>England,</hi> &amp;c. and through the moſt ſerious endeavours of their Ambaſſadours, betwixt the Commiſſioners of the Warrying Kings, a Peace moſt advantagious to the King and Kingdom of <hi>Sweden,</hi> hath been concluded at <hi>Rottſhild,</hi> on the 26 day of <hi>February</hi> laſt, and ſince approved and ratified by the Kings and Senatours of
+<pb n="2" facs="tcp:109263:3"/>
+both Crowns, and at <hi>Coppenhaguen</hi> ſolemnly interchanged.</p>
+            <p>And although his Majeſty the King of <hi>Denmark,</hi> accor<g ref="char:EOLhyphen"/>ding to the Tenor of the treaty, hath reſigned and yeelded up to his Majeſty the King of <hi>Sweden,</hi> ſuch and ſo many ſtrong and conſiderable Places and Havens, which in all probability the Kingdom of <hi>Sweden</hi> could not have gotten by the Sword in many years; <hi>viz.</hi> The excellent Provinces of <hi>Shonen,</hi> and <hi>Bleking;</hi> containing ſo many ſtrong holds, as <hi>Malmen, Land<g ref="char:EOLhyphen"/>ſcron, Chriſtianople, Elſingbourgh, Chriſtianſtad,</hi> &amp;c. As alſo the two moſt conſiderable Shires in <hi>Norway,</hi> to wit, the almoſt invincible Fortreſs <hi>Bahuſe,</hi> and the City of <hi>Drunthime,</hi> with all other places that have dependency from the ſame: The Iſle of <hi>Brenholm,</hi> whole <hi>Yempterland,</hi> and cleared the Caſtle of <hi>Bremerreurde;</hi> all in conformity to the 16 Article of the above mentioned treaty, as by the Extract <hi>ſub lit. (A)</hi> here annexed is to be ſeen. Hoping the King of <hi>Swe<g ref="char:EOLhyphen"/>den</hi> ſhould alſo, according to his promiſe, and the tenor of the ſaid Article, withdraw with his Army the firſt of <hi>May</hi> next enſuing, out of ſuch Daniſh Provinces, Dukedomes and Countries, as were ſpecified therein, and by him (during the Warre) ſeized upon; but nothing was performed: and under various pretences, the marching away of the Army delayed, to the utter ruine of the Countrey.</p>
+            <p>His Majeſty the King of <hi>Denmark,</hi> did not think, that af<g ref="char:EOLhyphen"/>ter the ratification of the concluded Peace, there was any thing left, which deſerved a new Treaty: Yet (to promote the execution of that, which had been already agreed upon) condeſcended thereunto, admitting the Swediſh Ambaſſa<g ref="char:EOLhyphen"/>dours, the Lord <hi>Steno Bidken,</hi> and <hi>Pet. Jul. Cojet</hi> in <hi>Cop<g ref="char:EOLhyphen"/>penhaguen,</hi> &amp;c. naming them Commiſſioners to treat withall. At their very firſt meeting, they made motion of a neerer Aliance and Union betwixt the two Northern Crowns: but as ſoon as the Daniſh Commiſſioners begun to ſpeak of any reſtriction, the Swediſh Abaſſadours not liking
+<pb n="3" facs="tcp:109263:3"/>
+that any exception ſhould be made, deferred this Point to other Conferences.</p>
+            <p>In the mean while the Ambaſſadours of <hi>Holſtein,</hi> arri<g ref="char:EOLhyphen"/>ved at <hi>Coppenhaguen,</hi> deſiring ſatisfaction for their Majeſty, which according to the 22 Article of the already mentioned Treaty of Peace <hi>ſub lit. (B)</hi> was to conſiſt in Reaſon; but the Swediſh Ambaſſadours, taking preſently the Duke of <hi>Holſteins</hi> party, pretendeth things farre beyond Reaſon. Notwithſtanding his Majeſty the King of <hi>Denmark,</hi> by granting him the major part of the <hi>Dumcapitle</hi> of <hi>Sleſ<g ref="char:EOLhyphen"/>wigh,</hi> and the Lordſhip <hi>Swabſtead,</hi> made alſo an end of that buſineſs, to the full ſatisfaction of both their Superiours, as is more at large evidenced by the Writings made to this purpoſe, and confirmed on all ſides. The more haſte was made for the finiſhing of this buſineſs on the ſide of <hi>Denmark,</hi> becauſe not only the Swediſh Miniſters, but alſo the Ambaſſadours of <hi>France,</hi> and the extraordinary Envoy of <hi>England</hi> had given iterative Aſſurances, that as ſoon as ever this Agreement, with the ſaid Duke was brought to an iſſue, that then the Army of the King of <hi>Sweden,</hi> ſhould preſently march out of all the King of <hi>Denmarkes</hi> Territories. Whereupon the Swediſh Am<g ref="char:EOLhyphen"/>baſſadours alſo, deſpatch a Letter to the Chief Admi<g ref="char:EOLhyphen"/>rall <hi>Wrangle,</hi> as Generall of the King of <hi>Swedens</hi> Army of this Tenor, <hi>That now the Treaty betwixt the King of</hi> Denmark, <hi>and the Duke of</hi> Holſtein <hi>being ended, he was to keep himſelf ready with his Army to march out of the Dominions of</hi> Denmark. Which Letter was delivered open to the King, who by an expreſs ſent it to the ſaid Generall <hi>Wrangle.</hi> No ſooner was this ſatisfactory Treaty ended and ſubſcribed, but the Ambaſſadours of <hi>Sweden,</hi> found out new pretences, to delay ſtill the marching of the Army out of the Countrey. The firſt was of the Iſland of <hi>Ween,</hi> as if the ſame belonged not
+<pb n="4" facs="tcp:109263:4"/>
+to the Iſle of <hi>Zealand,</hi> but to the Province of <hi>Shonen;</hi> and howbeit this Iſland was never depending from <hi>Shonen,</hi> but ever and from times out of memory hath pertained to the Iſle of <hi>Zealand;</hi> which is evident, whileſt the In<g ref="char:EOLhyphen"/>dwellers of the ſame, pay their Taxes to the Governour of <hi>Cronenbourgh</hi> to this very day, are judged by the Laws of <hi>Zealand,</hi> being alſo bondmen as the Countrey people of <hi>Zealand,</hi> and not free, as they of <hi>Shonen</hi> are. The only thing the Swediſh Miniſters had to colour their pre<g ref="char:EOLhyphen"/>tences withall, was that the ſaid Inhabitants pleaded their Cauſes before the Chief Juſtice of <hi>Shonen,</hi> which at their humble requeſt, the late King <hi>Christian</hi> the 4<hi rend="sup">th</hi> of ever<g ref="char:EOLhyphen"/>laſting memory, had given them leave to do, becauſe the Chief Juſtice of <hi>Shonen,</hi> lived but ſeven leagues diſtant from them; whereas he of <hi>Zealand</hi> lived near twenty ſe<g ref="char:EOLhyphen"/>ven leagues, and this the King granted them only for a a time, till other and better expedients might be de<g ref="char:EOLhyphen"/>viſed.</p>
+            <p>Notwithſtanding his Majeſty of <hi>Denmark,</hi> would rather give away this Iſland to the King of <hi>Sweden,</hi> as he hath promiſed to do, then longer to ſee all his Subjects ſigh under the heavy burthens and oppreſſion of the Swe<g ref="char:EOLhyphen"/>diſh Army.</p>
+            <p>No ſooner had they obtained this Iſland <hi>Ween,</hi> but the reſtitution of three Salt-Ships, taken in the ſound in the time of Warre, was pretented and valued twice as much as they were worth; yet had they alſo in this an accompliſh<g ref="char:EOLhyphen"/>ment of their deſires, the reſtitution of the Ships, with all their equipage being given; and for the Salt, a conſi<g ref="char:EOLhyphen"/>derable Summe of Money.</p>
+            <p>When it ſhould now ſeem, that all was brought to an happy end, and that the Swedes had nothing more to pretend, they begun anew to demand ſatisfaction for the booty gotten by our men in <hi>Guinea,</hi> from the Swediſh
+<pb n="5" facs="tcp:109263:4"/>
+Weſt-<hi>India</hi> Company, during the late (duely denunciated, and elſewhere ſufficiently juſtified) War, pretending there<g ref="char:EOLhyphen"/>fore 400000 Rixdollers; whereas it is ſufficiently known, that it cannot amount to 100000 Rixdollers. And beſides, this the King of <hi>Denmark</hi> was not bound to any further reſtitution, as to the Caſtle without the Guns, Proviſi<g ref="char:EOLhyphen"/>on and Munition, as it was demonſtrated to the Swediſh Ambaſſadours, and is clearly to be ſeen by the 14 Article of the above-mentioned Treaty of Peace <hi>ſub lit. (C)</hi> But yet would his Majeſty of <hi>Denmark</hi> rather give them con<g ref="char:EOLhyphen"/>tent in this moſt unreaſonable demand, than to have the Swediſh Army longer upon free quarters in his Countrey; of<g ref="char:EOLhyphen"/>fering to give his, and all the Senatours of the Kingdoms bond, for the whole pretended Summe of the 400000 Rix<g ref="char:EOLhyphen"/>dollers, and to pay them as ſoon as poſſible he could; but this would not pleaſe the Swediſh Miniſters; who pretend<g ref="char:EOLhyphen"/>ed firſt the King ſhould give them ſome Land for a pawn, and afterwards ſecurity of ſufficient Merchants in <hi>Ham<g ref="char:EOLhyphen"/>bourgh,</hi> who were to bind themſelves, and pay the ſaid 400000 Rixdollers within the ſpace of one year, as their own debt. At this his Majeſty ſhewed to the Swediſh Ambaſſadours, that the laſt of their demands was in this conjuncture of time, wholly impoſſible for him to perform, ſince his Kingdomes (as long as the Swediſh Army was in poſſeſſion of the moſt part of the ſame) could not find credit for ſuch a Summe: But this excuſe, how true and agreerble to Reaſon, was not regarded by the Swediſh Mini<g ref="char:EOLhyphen"/>ſters: wherefore his Majeſty (that he might not be thought to have omitted any thing, how hard ſoever, if it were but in his power to perform) offered them as before, his and all the Senatours of his Kingdoms Obligation of the ſaid Summe of 400000 Rixdollers, and the poſſeſſion of the Iſle of <hi>Iſland,</hi> with the benefits thereof, till ſuch time that the ſaid Summe ſhould be payed, and the Caſtle of <hi>Guinea</hi>
+               <pb n="6" facs="tcp:109263:5"/>
+reſtored by the Commiſſioners, which for that purpoſe were offered to the <hi>Swediſh</hi> Miniſters, who it was hoped, would have been ſatisfied therewith, and in conformity of the Trea<g ref="char:EOLhyphen"/>ty of Peace, and their Iterative promiſes, endeavoured the marching away of the Army out of his Majeſties Dominion: But the <hi>Swediſh</hi> Miniſters would come to no concluſion. One of them Sir <hi>Peter Julius Cojet,</hi> departed from hence towards <hi>Holſtein,</hi> promiſing there to informe his King and Maſter how the caſe ſtood, and alſo to promote as much as in him lay the marching away of the King his Maſters Army, and to return again within Fourteen Daies.</p>
+            <p>Thus full ſatisfaction having been given even to the King of <hi>Sweden,</hi> his moſt unjuſt and unreaſonable Pretences. All the Countries and ſtrong places according to the Tenor of the Treaty of Peace delivered; the Caſtle of <hi>Bremerveurde</hi> re<g ref="char:EOLhyphen"/>ſtored, and thereupon the Reciprocall Evacuation of the Iſle of <hi>Funen,</hi> and the ſtrong place of <hi>Friderighs-Odde</hi> expected; and that the more, becauſe the oft mentioned <hi>Swediſh</hi> Em<g ref="char:EOLhyphen"/>baſſadours had ſhewed to the Senatours of the Kingdome of <hi>Denmark,</hi> an originall Letter of the King their Maſter to this purpoſe: <hi>As ſoon as</hi> Bremerveurde <hi>ſhall be rendred unto me, will I not only evacuat the Iſle of</hi> Tunen <hi>and</hi> Frederighs-Odde, <hi>but alſo withdraw with my whole Army;</hi> which nevertheleſs was not his intention, as the event ſufficiently witneſſes; Beginning anew to make great Complaints, that the promiſed 2000 Horſe were not fully delivered, and that this was the reaſon, why he could not yet march away with his Army; It was therefore reſolved to give them ſatisfaction in this parti<g ref="char:EOLhyphen"/>cular, but the Officers by the King of <hi>Sweden,</hi> ordained to re<g ref="char:EOLhyphen"/>ceive ſo many Horſes as were wanting, and chiefly Major Generall <hi>Bottigher,</hi> made one difficulty after another, for not receiving them; as they ſhould be all <hi>Germains,</hi> and no <hi>Danes</hi> amongſt them, ſome of the Troopers had no Clokes, the Horſe were not all of one ſize, Saddels and Piſtols were
+<pb n="7" facs="tcp:109263:5"/>
+not to their liking; the meane Officers and the Servants of the Officers they would not not receive into the number; pretending beſides that 65 Men were wanting, and ſuch like complaints more they made, till at length they thouyht to have a fit opportunity to put their dangerous deſign into Ex<g ref="char:EOLhyphen"/>ecution; and having a while before received in <hi>Yutland</hi> 500, and in <hi>Holſtein</hi> the yet wanting 500 Horſe, a little without contradiction, we thought our ſelves now ſecured, and in a peaceable condition, nd therefore Disbanded the moſt part of our Forces; in expectation from day to day, that the ſo long looked for, and ſo often promiſed Marching away of the <hi>Swediſh</hi> Army ſhould be performed; when in lieu thereof we not only received news, that the Lands laying about <hi>Gluck<g ref="char:EOLhyphen"/>ſtad, Crempe,</hi> and <hi>Rensboghur,</hi> were burthened with free quarters of the <hi>Swediſh</hi> Souldiers; which Lands according to Agreement were to be ſpared, as the King of <hi>Sweden,</hi> when he was lately at <hi>Gottenbourg,</hi> not only confirmed anew, but by an eſpeciall Command charged his Lieutenant Generall in thoſe parts, the Paltſgrave of <hi>Sulchbagh</hi> ſo to do; Which Com<g ref="char:EOLhyphen"/>mands of his were in an open Letter delivered unto our Ambaſſadour, therewith for a while to appeaſe or rather lull aſleep the King his Maſter; By theſe proceedings were not only the Countrey People living in the ſaid Lands in a more then ordinary manner loaded with Souldiers, and a great many of them utterly ruined; but alſo the ſubſtance whereby his Maje<g ref="char:EOLhyphen"/>ſties Garriſons were to ſubſiſt, was taken away from them.</p>
+            <p>And whilſt we were ſecure and in expectation of the <hi>Swediſh</hi> Ambaſſadour <hi>Cojet</hi> his returne with ra<g ref="char:EOLhyphen"/>tification of all that had been concluded: The King of <hi>Sweden</hi> with his Army embarqued at <hi>Kiel,</hi> under pretence of being bound for <hi>Pome<g ref="char:EOLhyphen"/>rania,</hi> or <hi>Boruſsia,</hi> in a Hoſtile manner invades a<g ref="char:EOLhyphen"/>new
+<pb n="8" facs="tcp:109263:6"/>
+without any denunciation of Warre, and at a time, when nothing leſſe was looked for, this Iſle of <hi>Zealand:</hi> His Majeſties Horſe diſperſed up and down in the Countrey he ſets upon, ſome he forces to take ſervice under him, and to the reſt he ſtopped their paſſage to <hi>Coppenhagnen,</hi> which place he has now Beſieged, and is come ſo farre with his ap<g ref="char:EOLhyphen"/>proachs, that he is not a Piſtoll ſhot from the Wals, and goes on more and more to come nearer. He has alſo ta<g ref="char:EOLhyphen"/>ken the Towne called <hi>Helſingneur,</hi> and with three batteries fires without intermiſſion upon the Caſtle of <hi>Cronenburge;</hi> but the intention is ſo well there as here to de<g ref="char:EOLhyphen"/>fend us to the utmoſt.</p>
+            <p>Upon a ſuddaine there came alſo a Royall <hi>Swediſh</hi> Fleet before the Harbour of this City, hindring that nothing can come out or in to the ſame, by the which <hi>John Frederick</hi> Duke of <hi>Lunenbourgh</hi> and <hi>Brunswig,</hi> Brother to our Queen, with the Ship he came in, has been taken, who being not intereſted in the diffe<g ref="char:EOLhyphen"/>rences of <hi>Denmarke</hi> and <hi>Sweden,</hi> ought to have been conſidered as a Prince of the <hi>Roman</hi> Empire. Many other forrain ſhips they have alſo detained; and the above mentioned <hi>Swediſh</hi> Ambaſſadour <hi>Cojet,</hi> who but lately departed from hence in Friendſhip, having here received many Courteſies and good Entertainment, is now in Perſon with the Fleet, from whence he has ſent Letters hither to his Colleague the Senator and Ambaſſadour <hi>Steno Bielken,</hi> the which for gathering in his lodging men and all kinde of Armes, and caſting of Bullets at Night time, has been ſecured, and his men devided, and elſewhere lodged.</p>
+            <p>Let now the World judge without Paſſion, if theſe proceedings and the renewing of this Warre be
+<pb n="9" facs="tcp:109263:6"/>
+not quite contrary to the late agreement, and chiefly againſt the firſt Article of the ſame; which contains, <hi>That hence<g ref="char:EOLhyphen"/>forth between both Kings a firme, everlaſting and irreco<g ref="char:EOLhyphen"/>vocable Peace was eſtabliſhed, the miſintelligences paſt, and the Warre and Enmity laid aſide, and that for the future they ſhould live in a ſtedfaſt Friendſhip and good Neigh<g ref="char:EOLhyphen"/>bourhood together;</hi> In ſuch a manner, that both Kings were bound not only to promote each others wellfare as their own, but alſo to defend each others Kingdoms, Countries and Sub<g ref="char:EOLhyphen"/>jects from injuries, as much as in them lay, which is to be ſeen more at large in the ſaid Article, <hi>ſub lit. (D.)</hi> here an<g ref="char:EOLhyphen"/>nexed.</p>
+            <p>In concluſion, By all here before related proceedings it will appear, that hetherto the <hi>Swedes</hi> have had no thoughts of Peace, ſtudying nothing elſe but to find out pretences and occaſions to go from Treaty of Peace ſo ſolemnly concluded, on both ſides confirmed, and by <hi>Denmarke</hi> in all points per<g ref="char:EOLhyphen"/>formed; not regarding that the ſame, <hi>fide publicâ,</hi> by the mediation and laborious interpoſition of his moſt Chriſtian Majeſty, and his Highneſs the <hi>Lord Protector</hi> of <hi>Engdland,</hi> &amp;c. Embaſſadour and extraordinary Envoy has been concluded, and of them ſubſcribed and ſealed; as out of the here annexed clauſe, <hi>ſub lit. (E.)</hi> is to be ſeen.</p>
+            <p>Let therefore all the World ſo well Friends as Foes judge, whether this new irruption of the King of <hi>Sweden</hi> into this Iſland be attempted for any other cauſe, or to any other end, then to ſubvert the government thereof and maſter it, make<g ref="char:EOLhyphen"/>ing himſelf thereby the more able to fall upon his other neigh<g ref="char:EOLhyphen"/>bours, and ſo obtaine the abſolute dominion of the <hi>Baltick</hi> Sea, to the great prejudice of them that have Trade and Na<g ref="char:EOLhyphen"/>vigation in the ſame. Yet do we truſt in the Lord, and the juſtice of our Cauſe, knowing our ſelves innocent and guilt<g ref="char:EOLhyphen"/>leſs before him, (who ſearcheth Hearts and Reins,) as well as before all the world, not to have omitted or committed any
+<pb n="10" facs="tcp:109263:7"/>
+thing that might be the occaſion of a new breach; hoping God Almighty will help and defend his Majeſty of <hi>Denmark, Norway,</hi> &amp;c. with his Powerfull Arme, and that his moſt Chriſtian Majeſty the King of <hi>France,</hi> and his Highneſs the <hi>Lord Protector</hi> of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> will not on<g ref="char:EOLhyphen"/>ly diſavow this wrongfull and unjuſt attempt, but alſo in con<g ref="char:EOLhyphen"/>formity of their interpoſition and warrantty by their Autho<g ref="char:EOLhyphen"/>rity or ſuch other means, as they ſhall think convenient, diſ<g ref="char:EOLhyphen"/>poſe the King of <hi>Sweden</hi> to deſiſt from this moſt unjuſt inter<g ref="char:EOLhyphen"/>priſe, and to performe all the points of the often menti<g ref="char:EOLhyphen"/>oned Treaty, as well as the King of <hi>Denmark</hi> has done on his ſide, and to give his Majeſty for his received wrong and undeſerved damages, full and due reparation and ſatisfaction. Given at <hi>Coppenhaguen,</hi> 23. <hi>Auguſt</hi> Anno. 1658.</p>
+         </div>
+         <div type="appendix">
+            <pb n="11" facs="tcp:109263:7"/>
+            <head>Extracts of ſuch Articles as are men<g ref="char:EOLhyphen"/>tioned in this Information out of the Treaty of Peace Concluded be<g ref="char:EOLhyphen"/>twixt the Kings of <hi>Denmark</hi> and <hi>Sweden,</hi> &amp;c. 26 of <hi>February,</hi> in the year 1657/1658. at <hi>Rottſhield.</hi>
+            </head>
+            <div n="a" type="part">
+               <head>
+                  <hi>A.</hi> ARTIC. XVI.</head>
+               <p>TO the end, that the evacuation and interchanging of the before named Provinces, Towns, and ſtrong places, may be done without diſorder, it hath been agreed by the conſent of both Parties, on this following manner: That as ſoon as the <hi>2000</hi> Horſe (which his Majeſty the King of <hi>Denmark,</hi> promiſes hereby to give unto the King of <hi>Swe<g ref="char:EOLhyphen"/>den</hi>) ſhall be delivered, the Swediſh Army is preſently to march out of <hi>Zealand:</hi> Whereupon are to be delivered to the King of <hi>Sewden</hi> his Commiſsioners <hi>Helſenbourgh,</hi> the <hi>27</hi> of <hi>Febr. Lanſcron</hi> the <hi>28, Malmeu</hi> the firſt of <hi>March;</hi> then <hi>Chriſtianſted</hi> the fourth of the ſame Moneth, and the ſame day <hi>Naxchau</hi> is to be delivered to the Daniſh Commiſsioners; at the ſame time the Swediſh Army is to march out of <hi>Laland, Falſter</hi> and <hi>Langeland:</hi> The <hi>15</hi> of <hi>March</hi> is <hi>Chriſtianople,</hi> and what is remaining in <hi>Bleking,</hi> as alſo <hi>Bornholm,</hi> in caſe it be
+<pb n="12" facs="tcp:109263:8"/>
+poſsible, and that wind and <hi>Wedder</hi> will permit it to be ſur<g ref="char:EOLhyphen"/>rendred, then <hi>Bahuſe</hi> the <hi>28</hi> of the ſame Moneth: Further is <hi>Drunthime, Yempterland,</hi> and <hi>Bremerveurde,</hi> as well as all other places, which his Majesty of <hi>Denmark</hi> hath gained, during this Warre, where, and in what place ſoever it be, to be delivered and reſtored to the Commiſsioners of <hi>Swedland</hi> the firſt day of may, at which time the Army of his Majeſty the King of <hi>Sweden,</hi> is alſo to march out of <hi>Funen, Yutland, Sleſwig, Holſtein, Stormar</hi> and <hi>Ditmarſhen,</hi> with the Iſle<g ref="char:EOLhyphen"/>lands, Fortreſſes, Forts, and Noble-mens Houſes, and to de<g ref="char:EOLhyphen"/>liver up to the Daniſh Commiſsioners the ſtrong places of <hi>Fri<g ref="char:EOLhyphen"/>derighs Odde, Pinnenberg, Halſconce,</hi> and all ſuch others; as his Majeſty the King of <hi>Sweden,</hi> during the Warre, hath gotten in his poſſeſsion. At the ſame day his Majeſty of <hi>Sweden,</hi> is alſo to deliver up the Iſland <hi>Alſeu, Sunderbourgh</hi> and <hi>Nore<g ref="char:EOLhyphen"/>bourgh</hi> to the right owners of the ſame, and if any other place in the above named Kingdomes, Provinces, Dukedomes, and Iſlands be taken by the one or other, it ſhall all be reſtored and delivered to him, who formerly hath been the right owner there<g ref="char:EOLhyphen"/>of, as well as if it were ſpecified herein.</p>
+            </div>
+            <div n="b" type="part">
+               <head>
+                  <hi>B.</hi> ARTIC. XXII.</head>
+               <p>HIs Majeſty the King of <hi>Denmark,</hi> &amp;c. ſhall give to the Duke of <hi>Sleſwing, Holſtein, Gottorp,</hi> &amp;c. ſatisfacti<g ref="char:EOLhyphen"/>on according to equity, whereever the Commiſsioners of both parties, to wit, of his Majeſty of <hi>Denmark,</hi> and the ſaid Duke of <hi>Holſtein,</hi> are to Treat.</p>
+            </div>
+            <div n="c" type="part">
+               <pb n="13" facs="tcp:109263:8"/>
+               <head>
+                  <hi>C.</hi> ARTIC. XIV.</head>
+               <p>ANd whileſt all the ſtrong places, as well thoſe that have been taken, during the Warre, as all others, ſo by this Trea<g ref="char:EOLhyphen"/>ty of Peace ſhall be given over, are to be delivered without Pro<g ref="char:EOLhyphen"/>viſion and Munition; it is agreed upon, that the Country People of that Shire or Province, wherein ſuch ſtrong places are ſituated, ſhall be bound to carry the Proviſion and Amunition to that part of the Sea ſide, where moſt conveniently they may be embarq't and ſhipped away.</p>
+            </div>
+            <div n="d" type="part">
+               <head>
+                  <hi>D.</hi> ARTIC. I.</head>
+               <p>IN the firſt place, there ſhall be between both Kings, their Succeſ<g ref="char:EOLhyphen"/>ſours, Kingdomes, Countries, Counſellors, Servants, Subjects, and Inhabitants a firm and everlaſting Peace, ſo that henceforth all miſ-intelligences, diſſention, ſtrife, enmity, War and Hoſtility are to ceaſe and end; as alſo what hath paſſed on both ſides as well before, as during the War, in vertue of a general amneſty ſhall be buried in Oblivion, and never at any time remembred or ſpoken of, but rather ſhall there be a firm Amity, Confidence, Union, and true Neighbourhood eſtabliſhed and intertain'd, ſo, and in ſuch a manner, that one the others good and welfare ſhall advance and pro<g ref="char:EOLunhyphen"/>mote: And that which might prove prejudicial and hurtfull to the others Perſon; Government, Kingdomes, Countrey and Sub<g ref="char:EOLhyphen"/>jects, hinder, and as much as is piſsible, prevent.</p>
+            </div>
+            <div n="e" type="part">
+               <head>
+                  <hi>E.</hi> After the XXVIII. ARTICLE at the end.</head>
+               <p>FOr the better aſſurance, that all this, in all his Points, ſo as it is here mentiond, hath been by us Concluded and Agreed upon,
+<pb n="14" facs="tcp:109263:9"/>
+and that on the ſide of his Majeſty, our moſt gracious King, and the Crown of <hi>Swedland,</hi> it ſhall be faithfully and inviolably kept and performed, as alſo that the ratification thereof, at the appoint<g ref="char:EOLhyphen"/>ed time, ſhall be exhibited and delivered, is this by us ſubſcribed and ſealed with our Signets; deſiring moreover, that the Am<g ref="char:EOLhyphen"/>baſſadours of his moſt Christian Majeſty, and the extraordinary Envoy of his Highneſs the Lord Protector of <hi>England, Scot<g ref="char:EOLhyphen"/>land,</hi> and <hi>Ireland,</hi> as Mediators of this Treaty of Peace, will be pleaſed, for the better Confirmation and Teſtification of the ſame, to ſubſcribe and ſeal this as well as we. Given at <hi>Rottſhield Febr. 26. An. 1627/1628.</hi>
+               </p>
+            </div>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Le Chevalier de Farlon.</hi>
+                     </item>
+                     <item>
+                        <hi>Philip Meadow.</hi>
+                     </item>
+                     <item>
+                        <hi>Corfich</hi> Earl of <hi>Ulefeld.</hi>
+                     </item>
+                     <item>
+                        <hi>Steno Biclk.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <p>EXcuſe, <hi>Curteous Reader,</hi> if we do not anſwer thy expecta<g ref="char:EOLhyphen"/>tions, in giving thee a further account of what hath paſ<g ref="char:EOLhyphen"/>ſed in the ſiege of <hi>Coppenhaguen</hi> from the 23 of <hi>Aug.</hi> till now, how the Beſiegers make uſe of empoiſened Bullets, and other Engins not uſuall amongſt Chriſtians; as alſo of the deplora<g ref="char:EOLhyphen"/>ble and unſpeakable devaſtation and deſolation, cauſed by the remaining Swediſh Forces, in the Dukedome of <hi>Holſtein,</hi> and the adjoyning Provinces, by burning and utterly deſtroying all the Cities, Towns, Villages, Noble-mens Houſes of the ſame. Whereby thouſands of Women and Children are droven to lie in the open Fields, and to cry for <hi>vengeance from Heaven;</hi> We hope the Lord will hear their <hi>Prayers,</hi> and ſhew his <hi>juſt Judgment</hi> upon the <hi>oppreſſors,</hi> when according to his Wiſdom, he ſhall think them ripe for puniſhment. Where<g ref="char:EOLhyphen"/>of we intend to give thee a full and true Information in due time.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+            <pb facs="tcp:109263:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
